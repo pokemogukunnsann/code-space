@@ -1,0 +1,8 @@
+{
+      "name": "Bedrock Server",
+        "build": {
+            "dockerfile": "../Dockerfile"
+              },
+                "forwardPorts": [19132],
+                  "remoteUser": "root"
+}
